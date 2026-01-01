@@ -1,0 +1,14 @@
+# Datasetler
+*.csv
+dataset/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
