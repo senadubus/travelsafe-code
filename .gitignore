@@ -1,6 +1,7 @@
 # Datasetler
 *.csv
 dataset/
+.parquet/
 
 # Python
 __pycache__/
