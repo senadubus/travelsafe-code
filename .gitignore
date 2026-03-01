@@ -11,4 +11,11 @@ venv/
 # IDE
 .vscode/
 .idea/
+# Secrets / Keys
+key.json
+keykey.json
+*.json
+
+# Env
+.env
 
