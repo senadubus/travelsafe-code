@@ -20,3 +20,12 @@ keykey.json
 # Env
 .env
 
+
+# secrets
+keykey.json
+key.json
+*.json
+
+# secrets
+keykey.json
+key.json
