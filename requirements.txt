@@ -1,0 +1,18 @@
+# Veri İşleme ve Analiz
+pandas
+numpy
+scikit-learn
+
+# Veritabanı (PostgreSQL) Bağlantısı
+psycopg2-binary
+sqlalchemy
+
+# Makine Öğrenmesi Modelleri
+xgboost
+
+# Derin Öğrenme (LSTM)
+tensorflow
+
+# Görselleştirme (Analiz sonuçları için opsiyonel ama önerilir)
+matplotlib
+seaborn
